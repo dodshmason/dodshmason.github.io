@@ -128,8 +128,10 @@ yandex.com, 40427798, RESELLER
 yandex.com, 95746987, RESELLER
 yandex.com, 97539269, RESELLER
 yeahmobi.com, 5135195, RESELLER
+telaria.com, 80zxm-4213146, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 80zxm-4213146, RESELLER, 1a4e959a1b50034a
 
-ironsrc.com, 268753, Direct
+ironsrc.com, 445587, DIRECT
 adbility-media.com, 187, RESELLER
 advertising.com, 8693, RESELLER
 algorix.co, 54400, RESELLER, 5b394c12fea27a1d
@@ -212,5 +214,5 @@ xandr.com, 13799, RESELLER
 contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
 freewheel.tv, 1137745, RESELLER
 freewheel.tv, 1138513, RESELLER
-yeahmobi.com, 5135347, Reseller
+yeahmobi.com, 5135347, RESELLER
 media.net, 8CUO7P3WK, RESELLER
